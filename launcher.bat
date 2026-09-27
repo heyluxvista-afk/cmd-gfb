@@ -1,4 +1,5 @@
 @echo off
+chcp 65001 >nul
 title Max88
 mode con cols=35 lines=11
 color 0A
